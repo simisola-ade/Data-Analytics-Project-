@@ -1,2 +1,2 @@
 # Data-Analytics-Project-
-This project showcase SQL and Data Visualization skills 
+This project showcases Excel, SQL and Data Visualization skills to make business strategy recommendations in Retail
